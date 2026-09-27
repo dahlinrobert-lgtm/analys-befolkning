@@ -1,0 +1,4 @@
+name: Build SCB data
+
+on:
+  workflow_dispatch:
