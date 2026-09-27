@@ -1,1 +1,4 @@
-.github/workflows/build-scb-data2.yml
+name: Build SCB data
+
+on:
+  workflow_dispatch:
